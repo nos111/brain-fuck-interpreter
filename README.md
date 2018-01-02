@@ -1,4 +1,4 @@
-<p><span style="font-weight: 400;">A brain fuck interpreter written in assembly x86-64</span></p>
+<h1><span style="font-weight: 400;">A brain fuck interpreter written in assembly x86-64</span></h1>
 <p>&nbsp;</p>
 <p><span style="font-weight: 400;">A brain fuck interpreter wrriten using assembly x86-64</span></p>
 <p>&nbsp;</p>
@@ -21,5 +21,6 @@
 </ul>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">The towers of hanoi&nbsp;</span><span style="font-weight: 400;"><img src="https://github.com/nos111/brain-fuck-interpreter/blob/master/photos/hanoitowers.png?raw=true" alt="" width="734" height="499" /></span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">The mandelbrot&nbsp;</span><span style="font-weight: 400;"><img src="https://github.com/nos111/brain-fuck-interpreter/blob/master/photos/mandelbrot.png?raw=true" alt="" width="734" height="499" /><br /></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The mandelbrot&nbsp;</span><span style="font-weight: 400;"><br />
+ <img src="https://github.com/nos111/brain-fuck-interpreter/blob/master/photos/mandelbrot.png?raw=true" alt="" width="734" height="499" /><br /></span></li>
 </ul>
