@@ -14,16 +14,12 @@
 <p><span style="font-weight: 400;">gcc -o brain brain.s -no-pie</span></p>
 <h1><span style="font-weight: 400;">Run:</span></h1>
 <p><span style="font-weight: 400;">./brain hanoi.b</span></p>
-<p>&nbsp;</p>
 <p><span style="font-weight: 400;">./brain m.b</span></p>
-<p>&nbsp;</p>
 <h1><span style="font-weight: 400;">Tests:</span></h1>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Calculate the e number with infinite precision</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Calculate the e number with infinite precision</span><span style="font-weight: 400;"><img src="https://github.com/nos111/brain-fuck-interpreter/blob/master/photos/e.png?raw=true" alt="" width="734" height="462" /></span></li>
 </ul>
-<p>&nbsp;</p>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Ran the towers of hanoi all the way until the end</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Ran the mandelbrot and the extreme mandelbrot</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The towers of hanoi&nbsp;</span><span style="font-weight: 400;"><img src="https://github.com/nos111/brain-fuck-interpreter/blob/master/photos/hanoitowers.png?raw=true" alt="" width="734" height="499" /></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The mandelbrot&nbsp;</span><span style="font-weight: 400;"><img src="https://github.com/nos111/brain-fuck-interpreter/blob/master/photos/mandelbrot.png?raw=true" alt="" width="734" height="499" /><br /></span></li>
 </ul>
-<p><br /><br /></p>
